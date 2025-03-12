@@ -1,0 +1,6 @@
+../Drivers/BLE/ble.c:31:9:BLE_RECV_INIT	8	static
+../Drivers/BLE/ble.c:37:9:BLE_INTERFACE_COMMAND	16	static
+../Drivers/BLE/ble.c:54:9:BLE_SET_STATUS	16	static
+../Drivers/BLE/ble.c:62:9:BLE_ChangeStatus	16	static
+../Drivers/BLE/ble.c:66:12:BLE_GetStatus	4	static
+../Drivers/BLE/ble.c:70:6:BLE_CALLBACK	8	static

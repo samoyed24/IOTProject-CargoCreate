@@ -1,0 +1,12 @@
+../Drivers/Wifi/wifi.c:25:6:WIFI_OPEN_RECEIVE	1
+../Drivers/Wifi/wifi.c:29:9:WIFI_CONNECT	5
+../Drivers/Wifi/wifi.c:47:9:WIFI_MQTT_USERCFG	9
+../Drivers/Wifi/wifi.c:83:9:WIFI_MQTT_CONN	5
+../Drivers/Wifi/wifi.c:109:9:WIFI_MQTT_MESSAGE_PUB	4
+../Drivers/Wifi/wifi.c:131:9:WIFI_MQTT_TOPIC_SUB	5
+../Drivers/Wifi/wifi.c:152:9:WIFI_MQTT_PUBRAW	9
+../Drivers/Wifi/wifi.c:185:7:WIFI_msg_buffer_GETTER	1
+../Drivers/Wifi/wifi.c:208:9:WIFI_DEVICE_WIFI_CONNECT	1
+../Drivers/Wifi/wifi.c:214:9:WIFI_RST	1
+../Drivers/Wifi/wifi.c:221:9:WIFI_INIT	4
+../Drivers/Wifi/wifi.c:236:6:WIFI_CALLBACK	11

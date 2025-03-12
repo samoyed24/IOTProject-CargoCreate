@@ -1,0 +1,4 @@
+../Drivers/Buzzer/buzzer.c:12:6:BUZZER_SHORT	24	static
+../Drivers/Buzzer/buzzer.c:19:6:BUZZER_BUZZ_TWICE	24	static
+../Drivers/Buzzer/buzzer.c:26:6:BUZZER_Success	8	static
+../Drivers/Buzzer/buzzer.c:30:6:BUZZER_Fail	8	static

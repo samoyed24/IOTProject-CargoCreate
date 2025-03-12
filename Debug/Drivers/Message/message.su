@@ -1,0 +1,3 @@
+../Drivers/Message/message.c:15:6:MESSAGE_CHECK_AND_CLEAR	8	static
+../Drivers/Message/message.c:24:8:MESSAGE_MERGER	6904	static
+../Drivers/Message/message.c:73:9:MESSAGE_Analyse	32	static

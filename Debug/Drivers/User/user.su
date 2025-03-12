@@ -1,0 +1,2 @@
+../Drivers/User/user.c:12:9:USER_SetUser	16	static
+../Drivers/User/user.c:17:15:USER_GetUser	4	static

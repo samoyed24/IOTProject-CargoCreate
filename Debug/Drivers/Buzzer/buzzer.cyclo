@@ -1,0 +1,4 @@
+../Drivers/Buzzer/buzzer.c:12:6:BUZZER_SHORT	2
+../Drivers/Buzzer/buzzer.c:19:6:BUZZER_BUZZ_TWICE	2
+../Drivers/Buzzer/buzzer.c:26:6:BUZZER_Success	1
+../Drivers/Buzzer/buzzer.c:30:6:BUZZER_Fail	1

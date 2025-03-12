@@ -1,0 +1,8 @@
+../Drivers/Huawei/huawei.c:38:9:HUAWEI_INIT	8	static
+../Drivers/Huawei/huawei.c:59:7:HUAWEI_TOPIC_GETTER	24	static
+../Drivers/Huawei/huawei.c:113:9:HUAWEI_MQTTPUB_JSON	40	static
+../Drivers/Huawei/huawei.c:130:14:HUAWEI_SERVICE_ADD_WAKE_UP	40	static
+../Drivers/Huawei/huawei.c:146:9:HUAWEI_WAKEUP	24	static
+../Drivers/Huawei/huawei.c:151:9:HUAWEI_SUBSCRIBE_TOPICS	16	static
+../Drivers/Huawei/huawei.c:167:9:HUAWEI_SERVICE_RESP	40	static
+../Drivers/Huawei/huawei.c:187:9:HUAWEI_SEND_MESSAGE	16	static
